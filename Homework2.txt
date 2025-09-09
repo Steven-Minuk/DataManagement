@@ -1,0 +1,7 @@
+Data Management - Homework 2
+Dr.Randi R. Ludwig
+Minuk Choi
+mc79857
+
+I aim to become a data engineer after completing the MSITM program. This repository contains comprehensive resources on data engineering, so I forked it to my account.
+I can't specify a single topic, as I find all of them interesting. Whenever I have time, I plan to work through each part of this repository.
